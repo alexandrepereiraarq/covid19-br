@@ -184,10 +184,12 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 - [Painel da vacinação COVID-19](https://apps.kauebraga.dev/shiny/painel_vacinacao_covid/)
 - [Vacinas COVID-19](https://app.powerbi.com/view?r=eyJrIjoiMDk5MjI5NDQtZTQ4Ni00NzA1LWE2YTQtYWEwMzg3NDAyNDVmIiwidCI6IjE4MzNkNDljLTQzZGItNGRmYy1hNDE3LWJjMDk4YjE0OGQ2MSJ9&pageName=ReportSection4281f6ab24deead4b02c)
 - [COVID-19 confirmed cases and deaths in Brazil](https://github.com/ramongss/COVID19-AutoReports)
+- [COVIDGI project University of Hamburg](https://www.covidgi.uni-hamburg.de/pt.html)
 
 
 ## Publicações Científicas
 
+- [One year of the COVID-19 pandemic in the Global South: Uneven vulnerabilities in Brazilian cities](https://www.erdkunde.uni-bonn.de/archive/2022/one-year-of-the-covid-19-pandemic-in-the-global-south-uneven-vulnerabilities-in-brazilian-cities)
 - [COVID-19 e hospitalizações por SRAG no Brasil: uma comparação até a 12a semana epidemiológica de 2020](https://www.scielo.br/pdf/csp/v36n4/1678-4464-csp-36-04-e00070120.pdf)
 - [Short-term forecasting COVID-19 cumulative confirmed cases: Perspectives for Brazil](https://www.researchgate.net/publication/341025731_Short-term_forecasting_COVID-19_cumulative_confirmed_cases_Perspectives_for_Brazil) ([Science Direct](https://www.sciencedirect.com/science/article/pii/S0960077920302538))
 - [Forecasting Brazilian and American COVID-19 cases based on artificial intelligence coupled with climatic exogenous variables](https://www.researchgate.net/publication/342247189_Forecasting_Brazilian_and_American_COVID-19_cases_based_on_artificial_intelligence_coupled_with_climatic_exogenous_variables) ([Science Direct](https://www.sciencedirect.com/science/article/pii/S0960077920304252))
